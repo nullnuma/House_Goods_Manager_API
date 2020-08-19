@@ -1,6 +1,8 @@
-# House Goods Manager
+# House Goods Manager API
 
 購入/入手した物品を管理するためのソフトウェア
+バックエンド側
+REST API
 
 # Features
 
